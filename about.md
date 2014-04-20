@@ -1,30 +1,27 @@
 ---
-layout: page
+id: 2
 title: About
+date: 2010-08-30T19:48:56+00:00
+author: admin
+layout: page
+guid: https://www.inetric.com/wordpress/?page_id=2
 ---
+<p id="top" />
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+[Privacy](/about/privacy) \| [Terms of Service](/about/terms-of-service)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+inetric is a technology oriented company with a focus in security and project development.
 
-There are currently two themes built on Poole:
+inetric actively researches in the areas of information security and computer networking.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+GPG Key: [5C51 6ECD F406 E566 BE01 9558 039D F646 F3EB B7D6](/downloads/inetric_pk.asc)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+RPM Signing Key: [E4E1 1D47 B9EF B587 C948 471B 1D9A 3ACE 5602 E719](/repo/RPM-GPG-KEY-inetric)
 
-## Setup
+CA Root Certificate: [D1:D6:5D:B3:79:25:45:7A:4B:3D:CF:99:B9:59:94:23:B6:55:88:3A](/downloads/ca/cert.crt)
 
-Some fun facts about the setup of this project include:
+Phone: **72 INETRIC 2 \| (724) 638 7422**
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Address: 345 West Hanckock Ave #7, Athens GA 30601
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+﻿
